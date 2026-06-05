@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there👋
+
+You will find here a selection of my projects in **applied mathematics** and **quantitative finance**. 
+
 
 <!--
 **rakotoan/rakotoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
