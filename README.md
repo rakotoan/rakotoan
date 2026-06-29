@@ -1,6 +1,6 @@
 ## Hey there👋
 
-You will find here a selection of my projects in **applied mathematics** and **quantitative finance**. 
+You will find here a selection of my projects in **Applied Mathematics** and **Quantitative Finance**. 
 
 
 <!--
